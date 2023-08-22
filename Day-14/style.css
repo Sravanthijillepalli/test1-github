@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+
+}
+h1{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    padding: 30px;
+
+}
+.mynavbar{
+    background-color: rgba(71, 61, 139, 0.773);
+    
+}
+ul{
+    color: white;
+    padding: 15px;
+    margin: 10px;
+
+
+}
+li{
+    display: inline;
+    margin: 10px;
+}
+.h2{
+          display: block;
+          background-color: bisque;
+          width: 30px;
+          width: 50%;
+
+
+}
+.footer{
+    background-color:navy;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  
+}
+p{
+    background-color: rgba(0, 255, 255, 0.145);
+}
+.movies-top-part{
+    background-color: 00539C;
+    height: 250px;
+}
+.movies-bottom-part{
+    background-color: EEA47F;
+    width: 500px;
+    text-align: center;
+}
